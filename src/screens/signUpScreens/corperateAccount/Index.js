@@ -1,0 +1,1 @@
+export { CorperateAccount } from './CorperateAccount'
